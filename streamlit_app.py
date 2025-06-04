@@ -22,6 +22,12 @@ from PIL import Image
 """
 
 """
+
+# Hi Boys and Girls CLub of Greater New Haven
+# This is demo, thanks for your time
+
+"""
+"""
 # Hi Legacy Scholars, Parents, and Chaperones
 
 """
