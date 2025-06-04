@@ -23,7 +23,7 @@ from PIL import Image
 
 """
 
-# Hi Boys and Girls CLub of Greater New Haven
+# Hi Boys and Girls Club of Greater New Haven
 # This is demo, thanks for your time
 
 """
