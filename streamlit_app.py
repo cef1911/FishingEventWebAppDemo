@@ -26,8 +26,7 @@ from PIL import Image
 # Hi Boys and Girls Club of Greater New Haven
 # This is demo, thanks for your time
 # Let's work together to educate these young men on the benefits of fishing, coding/stem, teamwork, and community.
-# Thanks everyone!!!!!!
-
+# Thanks everyone!
 """
 """
 # Hi Legacy Scholars, Parents, and Chaperones
