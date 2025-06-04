@@ -150,11 +150,11 @@ image5 = Image.open('images/AllanStriper13lb.jpeg')
 
 st.image(image5, caption='Legacy Parent with a 13LB Striped Bass')
 
-image6 = Image.open('images/JesseResume.jpeg')
-st.image(image6, caption='Jesse Resume')
+#image6 = Image.open('images/JesseResume.jpeg')
+#st.image(image6, caption='Jesse Resume')
 
-image7 = Image.open('images/Jesseresume2.jpeg')
-st.image(image7, caption='Jesse Resume2')
+#image7 = Image.open('images/Jesseresume2.jpeg')
+#st.image(image7, caption='Jesse Resume2')
 
 
 
