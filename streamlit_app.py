@@ -178,7 +178,7 @@ st.markdown(multi)
 df2 = pd.DataFrame(
     [
         {"Team A": "John", "Role": "Captain", "Fish Caught": 21},
-        {"Team A": "Sara", "Role": "Data Wrangler", "Fish Caught": 4},
+        {"Team A": "Sara", "Role": "Data Wrangler", "Fish Caught": 70},
         {"Team A": "Tony", "Role": "Team Liason", "Fish Caught": 10},
         {"Team A": "Patricia", "Role": "Assistant Captain", "Fish Caught": 6},
         {"Team A": "Tina", "Role": "Statistics Person", "Fish Caught": 30},
