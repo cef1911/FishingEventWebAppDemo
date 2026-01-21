@@ -29,7 +29,7 @@ from PIL import Image
 # Thanks everyone!
 """
 """
-# Hi Legacy Scholars, Parents, and Chaperones
+# Hi Monroe Community College 
 
 """
 
